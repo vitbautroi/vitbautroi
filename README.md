@@ -73,7 +73,7 @@
     <img src="https://img.icons8.com/clouds/1x/discord-logo.png" alt="vitbautroi-discord" />
   </a>
   <a href="https://soundcloud.com/vtdayne" target="blank">
-    <img src="https://img.icons8.com/clouds/1x/soundcloud.png" alt="vitbautroi-soundcloud" />
+    <img src="https://img.icons8.com/clouds/1x/soundcloud-app-iphone.png" alt="vitbautroi-soundcloud" />
   </a>
   <a href="https://instagram.com/cuakicuc.exe" target="blank">
     <img src="https://img.icons8.com/clouds/1x/instagram-new--v2.png" alt="vitbautroi-instagram" />
