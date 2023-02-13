@@ -85,7 +85,7 @@
 
 <br>
 
-<h2 align="center">📖 Câu chuyện truyền cảm hứng 📖</h2>
+<h2 align="center">📖 Inspirational story 📖</h2>
 <br>
 <p>
   <a href="https://lofivitbautroi.vercel.app/" target="_blank">
