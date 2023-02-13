@@ -67,7 +67,7 @@
 <div align="center">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100018205177111" target="blank">
-    <img src="https://img.icons8.com/clouds/256/facebook-new.png" alt="vitbautroi-facebook" />
+    <img src="https://img.icons8.com/clouds/1x/facebook-new.png" alt="vitbautroi-facebook" />
   </a>
   <a href="https://discord.com/" target="blank">
     <img src="https://img.icons8.com/clouds/256/discord-logo.png" alt="vitbautroi-discord" />
